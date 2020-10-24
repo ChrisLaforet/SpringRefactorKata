@@ -40,3 +40,7 @@ Principle) or not and if so, is it worth breaking the principle? The other is to
 code into classes that will preserve the SRP and expose test points.
 
 The clock is ticking for this emergency release. Good luck!
+
+P.S. This code is not a running project in Spring. Imagine that Spring wraps this
+logic hence the hints pointing out to components. However, in this kata, your 
+tests will exercise the logic.
